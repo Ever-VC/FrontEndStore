@@ -1,0 +1,11 @@
+:root {
+    --primario: #9C27B0;
+    --primario-oscuro: #89119D;
+    --secundario: #FFCe00;
+    --secundario-oscuro: rgb(233, 287, 2);
+    --blanco: #fff;
+    --negro: #000;
+
+    --fuente-principal: "Staatliches", sans-serif;
+}
+  
