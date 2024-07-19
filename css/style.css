@@ -73,6 +73,19 @@ h3 {
     margin: 3rem 0;
 }
 
+/* Footer */
+.footer {
+    background-color: var(--primario-oscuro);
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+
+.footer__texto {
+    text-align: center;
+    font-family: var(--fuente-principal);
+    font-size: 2rem;
+}
+
 /* Navegación */
 .nav {
     background-color: var(--primario-oscuro);
